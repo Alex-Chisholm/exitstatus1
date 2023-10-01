@@ -6,7 +6,7 @@ about:
   links:
     - icon: linkedin
       text: linkedin
-      href: www.linkedin.com/in/chisholm1
+      href: https://www.linkedin.com/in/chisholm1
     - icon: github
       text: Github
       href: https://github.com/Alex-Chisholm

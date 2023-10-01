@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/quarto-kick-off/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/quarto-kick-off/index.html"
+    ]
+  }
+]
