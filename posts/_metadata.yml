@@ -1,0 +1,3 @@
+# post options
+freeze: true # don't re-render
+title-block-banner: true

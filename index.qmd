@@ -1,0 +1,46 @@
+---
+toc: false
+sidebar: false
+title-block-style: none
+css: homepage.css
+listing:
+    id: sample-listings
+    contents: posts
+    type: grid
+    sort: "number"
+    categories: false
+---
+
+
+
+::: {#hero-banner .column-screen}
+
+:::: {.grid .column-page}
+
+::::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}
+
+
+<br>
+
+Part code. Part perspective.
+
+<br>
+
+
+
+:::::
+
+::::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
+![](img/ams.png){fig-alt="Generative Canals"}
+:::::
+
+::::
+
+:::
+
+<br>
+
+
+
+::: {#sample-listings}
+:::

@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Words and Code"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - posts.qmd
+      - about.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/chisholm1
+      - icon: github
+        href: https://github.com/Alex-Chisholm
+
+
+format:
+  html:
+    theme: 
+      light: minty # sandstone, yeti, darkly, flatly
+      dark: [minty, custom.scss] # https://quarto.org/docs/output-formats/html-themes.html#colors
+    css: style.css
+    toc: true

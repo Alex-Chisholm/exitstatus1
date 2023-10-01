@@ -1,0 +1,16 @@
+---
+title: "Quarto Kick Off"
+description: "Jumping into the world of simple website create with Quarto"
+author:
+  - name: Alex Chisholm
+    url: ''
+date: 10-01-2023
+categories: [Quarto, Python, Travel] # self-defined categories
+image: ''
+draft: false 
+---
+
+
+Writing is fun. 
+
+I've done a lot of it for work. 

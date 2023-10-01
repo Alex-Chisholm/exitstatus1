@@ -1,0 +1,8 @@
+---
+title: "Posts"
+listing: 
+  contents: posts # look toward /posts dir
+  type: grid # or `default` or `table`; 
+  sort: "date desc" 
+  categories: true
+---

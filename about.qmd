@@ -1,0 +1,17 @@
+---
+title: About
+image: img/ajc2023.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: www.linkedin.com/in/chisholm1
+    - icon: github
+      text: Github
+      href: https://github.com/Alex-Chisholm
+---
+
+Been working with data for 15+ years. 
+
+Recently returned to the US after 7 years abroad. I miss it. 
