@@ -4,21 +4,21 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "Quarto Kick Off\n\n\n\nQuarto\n\n\nPython\n\n\nTravel\n\n\n\nJumping into the world of simple website create with Quarto\n\n\n\nAlex Chisholm\n\n\nOct 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Quarto Kick Off\n\n\n\nQuarto\n\n\nPython\n\n\nTravel\n\n\n\nJumping into the Quarto world\n\n\n\nAlex Chisholm\n\n\nOct 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Words and Code",
     "section": "",
-    "text": "Part code. Part perspective.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Kick Off\n\n\nJumping into the world of simple website create with Quarto\n\n\n\nAlex Chisholm\n\n\nOct 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Part code. Part perspective.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Kick Off\n\n\nJumping into the Quarto world\n\n\n\nAlex Chisholm\n\n\nOct 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/quarto-kick-off/index.html",
     "href": "posts/quarto-kick-off/index.html",
     "title": "Quarto Kick Off",
     "section": "",
-    "text": "Writing is fun.\nI’ve done a lot of it for work."
+    "text": "Just-in-time tooling\nThe people at RStudio, now Posit , have given many gifts to the data community over the years.\nWhen I struggled connecting scripts with data files and plots, the RStudio saved the day.\nWhen I tired of manually pasting together monthly revenue reports for the leadership team, R Markdown took over to automate the process. Later this expanded to putting A/B testing reports into production at a start-up and scaling press releases for a PR team working with global journalists.\nAnd when I began teaching data courses on the side, RStudio Cloud - now Posit Could - saved countless hours of troubleshooting by giving my students pre-configured environments.\n\n\nAnd now this site\nThis static website, which is hosted at the moment for free on Github Pages, is built with Quarto.\nThink of Quarto as the next generation of R Markdown with:\n\nBetter styling\nMore customizations\nNative python support (I spun up the site today using VS Code with python code chunks via Jupyter)\n\n\n\nNot only a user\nNot only am I a Quarto convert, I’m also now part of the company that supports the project!\nIt has been great joining an organization who has provided so many valuable open source tools and resources over the course of my data career."
   },
   {
     "objectID": "about.html",

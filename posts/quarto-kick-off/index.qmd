@@ -1,16 +1,38 @@
 ---
 title: "Quarto Kick Off"
-description: "Jumping into the world of simple website create with Quarto"
+description: "Jumping into the Quarto world"
 author:
   - name: Alex Chisholm
     url: ''
 date: 10-01-2023
 categories: [Quarto, Python, Travel] # self-defined categories
-image: ''
+image: 'bikes.png'
 draft: false 
 ---
 
+# Just-in-time tooling 
 
-Writing is fun. 
+The people at RStudio, now [Posit](https://posit.co/)
+, have given many gifts to the data community over the years.
 
-I've done a lot of it for work. 
+When I struggled connecting scripts with data files and plots, the [RStudio IDE](https://posit.co/products/open-source/rstudio/) saved the day.
+
+When I tired of manually pasting together monthly revenue reports for the leadership team, [R Markdown](https://rmarkdown.rstudio.com/) took over to automate the process. Later this helped a start-up put daily A/B testing reports into production and a PR team scale press releases to engage global journalists with custom commentary.
+
+And when I began teaching data courses on the side, RStudio Cloud - now [Posit Could](https://posit.cloud/) - saved countless hours of troubleshooting by giving my students pre-configured environments.
+
+# And now this site
+
+This static website, which is hosted at the moment for free on Github Pages, is built with [Quarto](https://quarto.org/).
+
+Think of Quarto as the next generation of R Markdown with:
+
+- Better styling
+- More customizations
+- Native python support (I spun up the site today using VS Code with python code chunks via Jupyter)
+
+# Not only a user
+
+Not only am I a Quarto convert, I'm also now part of the company that supports the project! 
+
+It has been great to join an organization that has provided so many valuable open source data tools and resources during my career.
