@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Words and Code"
+  title: "Exit Status 1"
   navbar:
     background: primary
     search: true
