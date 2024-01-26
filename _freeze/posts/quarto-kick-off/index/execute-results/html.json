@@ -1,0 +1,15 @@
+{
+  "hash": "cf7109bbb5984647b0545e90a2470229",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Quarto Kick Off\"\ndescription: \"Jumping into the Quarto world\"\nauthor:\n  - name: Alex Chisholm\n    url: ''\ndate: 10-01-2023\ncategories: [Quarto, Python] # self-defined categories\nimage: 'bikes.png'\ndraft: false \n---\n\n\n# Just-in-time tooling \n\nThe people at RStudio, now [Posit](https://posit.co/), have given many gifts to the data community over the years.\n\nWhen I struggled connecting scripts with data files and plots, the [RStudio IDE](https://posit.co/products/open-source/rstudio/) saved the day.\n\nWhen I tired of manually pasting together monthly revenue reports for the leadership team, [R Markdown](https://rmarkdown.rstudio.com/) took over to automate the process. Later this helped a start-up put daily A/B testing reports into production and a PR team scale press releases to engage global journalists with custom commentary.\n\nAnd when I began teaching data courses on the side, RStudio Cloud - now [Posit Could](https://posit.cloud/) - saved countless hours of troubleshooting by giving my students pre-configured environments.\n\n# And now this site\n\nThis static website, which is hosted for free on Github Pages through this custom domain, is built with [Quarto](https://quarto.org/). And I'm writing this post in VS Code with the helpful Quarto extension.\n\nThink of Quarto as the next generation of R Markdown that is entirely agnostic between Python and R.\n\n## Hi, Python\n\n\n::: {.cell python.reticulate='false'}\n\n```{.python .cell-code}\nages = [9,12,42,43]\nprint(ages*2)\n```\n\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[9, 12, 42, 43, 9, 12, 42, 43]\n```\n\n\n:::\n:::\n\n\n## Hi, R\n\n::: {.cell}\n\n```{.r .cell-code}\nages <- c(9,12,42,43)\nprint(ages*2)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 18 24 84 86\n```\n\n\n:::\n:::\n\n\n# Not only a user\n\nNot only am I a Quarto convert, but since the end of 2022 I've worked on Posit Cloud and Shinyapps.io at Posit. It's great working with people who provide so many valuable open source data tools and resources to the world.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
